@@ -1,146 +1,146 @@
-# [🏴‍☠️ Beginners Guide](https://rentry.org/Piracy-BG)
+# [🏴‍☠️ 新手指南](https://rentry.org/Piracy-BG)
 
-**Beginners Guide to Piracy**
-
-***
-***
-
-# [📛 Adblocking / Privacy](https://github.com/fmhy/FMHY/wiki/%F0%9F%93%9B-Adblock---Privacy---Antivirus)
-
-**Adblocking, Privacy, VPNs, Proxies, Antivirus**
+**盗版新手指南**
 
 ***
 ***
 
-# [🤖 Artificial Intelligence](https://github.com/fmhy/FMHY/wiki/%F0%9F%A4%96-Artificial-Intelligence)
+# [📛 广告拦截 / 隐私](https://github.com/fmhy/FMHY/wiki/%F0%9F%93%9B-Adblock---Privacy---Antivirus)
 
-**Chat Bots, Text Generators, Image Generators, ChatGPT Tools**
-
-***
-***
-
-# [📺 Movies / TV / Anime](https://github.com/fmhy/FMHY/wiki/%F0%9F%93%BA-Movies---TV---Anime---Sports)
-
-**Stream Videos, Download Videos, Torrent Videos**
+**广告拦截、隐私保护、VPN、代理、杀毒软件**
 
 ***
 ***
 
-# [🎵 Music / Podcasts / Radio](https://github.com/fmhy/FMHY/wiki/%F0%9F%8E%B5-Music---Podcasts---Radio)
+# [🤖 人工智能](https://github.com/fmhy/FMHY/wiki/%F0%9F%A4%96-Artificial-Intelligence)
 
-**Stream Audio, Download Audio, Torrent Audio**
-
-***
-***
-
-# [🎮 Gaming / Emulation](https://github.com/fmhy/FMHY/wiki/%F0%9F%8E%AE-Gaming---Emulation)
-
-**Download Games, ROMs, Gaming Tools**
+**聊天机器人、文本生成器、图像生成器、ChatGPT 工具**
 
 ***
 ***
 
-# [📗 Books / Comics / Manga](https://github.com/fmhy/FMHY/wiki/%F0%9F%93%97-Books---Comics---Manga)
+# [📺 电影 / 电视 / 动漫](https://github.com/fmhy/FMHY/wiki/%F0%9F%93%BA-Movies---TV---Anime---Sports)
 
-**Books, Comics, Magazines, Newspapers**
-
-***
-***
-
-# [💾 Downloading](https://github.com/fmhy/FMHY/wiki/%F0%9F%92%BE-Downloading)
-
-**Download Sites, Software Sites, Open Directories**
+**流媒体视频、下载视频、种子视频**
 
 ***
 ***
 
-# [🌀 Torrenting](https://github.com/fmhy/FMHY/wiki/%F0%9F%8C%80-Torrenting)
+# [🎵 音乐 / 播客 / 广播](https://github.com/fmhy/FMHY/wiki/%F0%9F%8E%B5-Music---Podcasts---Radio)
 
-**Torrent Clients, Torrent Sites, Trackers**
-
-***
-***
-
-# [🧠 Educational](https://github.com/fmhy/FMHY/wiki/%F0%9F%A7%A0-Educational)
-
-**Courses, Documentaries, Learning Resources**
+**流媒体音频、下载音频、种子音频**
 
 ***
 ***
 
-# [🔧 Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-index)
+# [🎮 游戏 / 模拟器](https://github.com/fmhy/FMHY/wiki/%F0%9F%8E%AE-Gaming---Emulation)
 
-**Internet Tools, System Tools, Audio Tools, Video Tools**
+**下载游戏、ROM、游戏工具**
 
 ***
 ***
 
-# [📱 Android / iOS](https://github.com/fmhy/FMHY/wiki/%F0%9F%93%B1-Android---iOS)
+# [📗 书籍 / 漫画 / 轻小说](https://github.com/fmhy/FMHY/wiki/%F0%9F%93%97-Books---Comics---Manga)
 
-**Apps, Jailbreaking, Android Emulators**
+**书籍、漫画、杂志、报纸**
+
+***
+***
+
+# [💾 下载](https://github.com/fmhy/FMHY/wiki/%F0%9F%92%BE-Downloading)
+
+**下载站点、软件站点、开放目录**
+
+***
+***
+
+# [🌀 种子下载](https://github.com/fmhy/FMHY/wiki/%F0%9F%8C%80-Torrenting)
+
+**种子客户端、种子站点、追踪器**
+
+***
+***
+
+# [🧠 教育资源](https://github.com/fmhy/FMHY/wiki/%F0%9F%A7%A0-Educational)
+
+**课程、纪录片、学习资源**
+
+***
+***
+
+# [🔧 工具](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-index)
+
+**网络工具、系统工具、音频工具、视频工具**
+
+***
+***
+
+# [📱 安卓 / iOS](https://github.com/fmhy/FMHY/wiki/%F0%9F%93%B1-Android---iOS)
+
+**应用程序、越狱、安卓模拟器**
 
 ***
 ***
 
 # [🐧 Linux / macOS](https://github.com/fmhy/FMHY/wiki/%F0%9F%90%A7-Linux---MacOS)
 
-**Apps, Software Sites, Gaming**
+**应用程序、软件站点、游戏**
 
 ***
 ***
 
-# [🌏 Non-English](https://github.com/fmhy/FMHY/wiki/%F0%9F%8C%8F-Non-English)
+# [🌏 非英语资源](https://github.com/fmhy/FMHY/wiki/%F0%9F%8C%8F-Non-English)
 
-**International Piracy Sites** 
-
-***
-***
-
-# [📂 Miscellaneous](https://github.com/fmhy/FMHY/wiki/%F0%9F%93%82-Miscellaneous)
-
-**Extensions, Indexes, News, Health, Food, Fun**
+**国际盗版站点**
 
 ***
 ***
 
-# [🔒 Backups](https://github.com/fmhy/FMHY/wiki/Backups)
+# [📂 杂项](https://github.com/fmhy/FMHY/wiki/%F0%9F%93%82-Miscellaneous)
 
-**FMHY Backups**
+**扩展、索引、新闻、健康、食品、娱乐**
+
+***
+***
+
+# [🔒 备份](https://github.com/fmhy/FMHY/wiki/Backups)
+
+**FMHY 备份**
 
 ***
 ***
 
 # [💬 Discord](https://rentry.co/fmhy-invite)
 
-**Chat, Get Help, Suggest Sites**
+**聊天、获取帮助、推荐站点**
 
 ***
 ***
 
-# [➕️ More Sections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/more-sections)
+# [➕️ 更多板块](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/more-sections)
 
 ***
 ***
 
-**[Search FMHY](https://redd.it/105xraz)** - Search the Entire Wiki
+**[搜索 FMHY](https://redd.it/105xraz)** - 搜索整个 Wiki
 
-**[Edit FMHY](https://fmhy.net/other/contributing)** - Make Changes to the Wiki
+**[编辑 FMHY](https://fmhy.net/other/contributing)** - 对 Wiki 进行修改
 
-**[Selfhost FMHY](https://fmhy.net/other/selfhosting)** - FMHY Selfhosting Guide
+**[自托管 FMHY](https://fmhy.net/other/selfhosting)** - FMHY 自托管指南
 
-**[Site Hunting Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-new-sites)** - Help Find New Sites
-
-***
-***
-
-**Emoji Legend:**
-
-🌐 - 3rd Party Indexes
-
-↪️ - Storage Page Links
-
-⭐ - Community Recommendations
+**[站点搜寻指南](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-new-sites)** - 帮助寻找新站点
 
 ***
+***
 
-[made with ❤️](https://fmhy.net/feedback)
+**表情符号图例：**
+
+🌐 - 第三方索引
+
+↪️ - 存储页面链接
+
+⭐ - 社区推荐
+
+***
+
+[用 ❤️ 制作](https://fmhy.net/feedback)
